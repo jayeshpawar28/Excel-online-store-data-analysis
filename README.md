@@ -11,5 +11,5 @@ This project showcases an in-depth analysis of e-commerce data using Excel. High
 * Geographical Insights: Identify top-performing states.
 
 💡 Dive into the analysis by exploring interactive pivot tables and slicers.
-Check out the code and visuals...
+Check out the Online store analysis.xlsx file and visuals...
  
